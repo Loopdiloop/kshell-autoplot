@@ -1,6 +1,7 @@
 # Autoplot-for-kshell
 
 Version 1.0
+
 This is a program made to automatically plot the level scheme 
 of a nuclei from a summary file from the kshell simulation.
 
